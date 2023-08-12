@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shanmukh016
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning CODING
-- 💞️ I’m looking to collaborate on TATA
 - 📫 How to reach me shanmukhkadiyala16@gmail.com
 
 <!---
